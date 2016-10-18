@@ -1,0 +1,23 @@
+[
+  {
+    "id": 864,
+    "image": "864.png",
+    "name": "FAMAS | Roll Cage",
+    "price": 9.92,
+    "quality": "RED"
+  },
+  {
+    "id": 865,
+    "image": "865.png",
+    "name": "AK-47 | Neon Revolution",
+    "price": 37.95,
+    "quality": "RED"
+  },
+  {
+    "id": 866,
+    "image": "866.png",
+    "name": "Tec-9 | Fuel Injector",
+    "price": 4.43,
+    "quality": "PINK"
+  }
+]
