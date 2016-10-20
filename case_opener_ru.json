@@ -1,14 +1,17 @@
-[
-  {
-    "order": 1,
-    "package_id": "com.twodtwob.ufo",
-    "icon": "ufo_icon.png",
-    "name": "Aliens vs Humans"
-  },
-  {
-    "order": 2,
-    "package_id": "com.twodtwob.vikings",
-    "icon": "vikings_icon.png",
-    "name": "Viking Warrior"
-  }
-]
+{
+  "entity_name": "first_start",
+  "ad_apps": [
+    {
+      "order": 1,
+      "package_id": "com.twodtwob.ufo",
+      "icon": "ufo_icon.jpg",
+      "name": "Aliens vs Humans"
+    },
+    {
+      "order": 2,
+      "package_id": "com.twodtwob.vikings",
+      "icon": "vikings_icon.jpg",
+      "name": "Viking Warrior"
+    }
+  ]
+}
