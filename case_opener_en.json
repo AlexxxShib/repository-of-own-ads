@@ -3,9 +3,9 @@
   "ad_apps": [
     {
       "order": 1,
-      "package_id": "com.twodtwob.ufo",
-      "icon": "ufo_icon.jpg",
-      "name": "Aliens vs Humans"
+      "package_id": "com.twodtwob.capflip",
+      "icon": "capflip_icon.png",
+      "name": "Hat Flip Trick"
     },
     {
       "order": 2,
