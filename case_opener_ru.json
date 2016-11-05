@@ -1,6 +1,17 @@
 {
-  "entity_name": "first_start",
+  "entity_name": "dots-cap-ru",
   "ad_apps": [
-    
+    {
+      "order": 1,
+      "package_id": "com.twodtwob.relaxdots",
+      "icon": "dots_icon.png",
+      "name": "Dots Flipper"
+    },
+    {
+      "order": 2,
+      "package_id": "com.twodtwob.capflip",
+      "icon": "capflip_icon.png",
+      "name": "Hat Flip Trick"
+    }
   ]
 }
