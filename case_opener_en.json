@@ -1,17 +1,23 @@
 {
-  "entity_name": "dots-cap-en",
+  "entity_name": "cap-juggle-flipper-en",
   "ad_apps": [
     {
       "order": 1,
-      "package_id": "com.twodtwob.relaxdots",
-      "icon": "dots_icon.png",
-      "name": "Dots Flipper"
-    },
-    {
-      "order": 2,
       "package_id": "com.twodtwob.capflip",
       "icon": "capflip_icon.png",
       "name": "Hat Flip Trick"
+    },
+    {
+      "order": 2,
+      "package_id": "com.twodtwob.juggleball",
+      "icon": "juggledot_icon.png",
+      "name": "Juggle Dot"
+    },
+    {
+      "order": 3,
+      "package_id": "com.twodtwob.relaxdots",
+      "icon": "dots_icon.png",
+      "name": "Dots Flipper"
     }
   ]
 }
