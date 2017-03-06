@@ -1,11 +1,11 @@
 {
-  "entity_name": "circle-cap-juggle-ru",
+  "entity_name": "chainsaw-cap-juggle-ru",
   "ad_apps": [
   	{
       "order": 1,
-      "package_id": "com.twodtwob.circlepong",
-      "icon": "circle_pong_icon.png",
-      "name": "Circle Ping Pong"
+      "package_id": "com.happylion.chainsaw",
+      "icon": "chainsaw_icon.png",
+      "name": "Бензопила!!!"
     },
     {
       "order": 2,
