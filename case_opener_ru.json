@@ -1,5 +1,5 @@
 {
-  "entity_name": "chainsaw-cap-juggle-ru",
+  "entity_name": "chainsaw-fgunsfcases-juggle-ru",
   "ad_apps": [
   	{
       "order": 1,
@@ -9,9 +9,9 @@
     },
     {
       "order": 2,
-      "package_id": "com.twodtwob.capflip",
-      "icon": "capflip_icon.png",
-      "name": "Hat Flip Trick"
+      "package_id": "com.lightside.fgunsfcases",
+      "icon": "4guns4cases_icon.png",
+      "name": "Ultimate Case Quiz"
     },
     {
       "order": 3,
