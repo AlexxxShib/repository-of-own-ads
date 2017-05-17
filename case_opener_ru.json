@@ -1,5 +1,5 @@
 {
-  "entity_name": "chainsaw-fgunsfcases-juggle-ru",
+  "entity_name": "chainsaw-fgunsfcases-skinquizcs-ru",
   "ad_apps": [
   	{
       "order": 1,
@@ -15,9 +15,9 @@
     },
     {
       "order": 3,
-      "package_id": "com.twodtwob.juggleball",
-      "icon": "juggledot_icon.png",
-      "name": "Juggle Dot"
+      "package_id": "com.lightside.skinquizcs",
+      "icon": "skinquizcs_icon.png",
+      "name": "Угадай скины CS:GO"
     }
   ]
 }
