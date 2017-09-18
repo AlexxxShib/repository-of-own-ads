@@ -1,23 +1,17 @@
 {
-  "entity_name": "chainsaw-fgunsfcases-skinquizcs-ru",
+  "entity_name": "skinquizcs-gunshooter-ru",
   "ad_apps": [
-  	{
-      "order": 1,
-      "package_id": "com.happylion.chainsaw",
-      "icon": "chainsaw_icon.png",
-      "name": "Бензопила!!!"
-    },
     {
-      "order": 2,
+      "order": 1,
       "package_id": "com.lightside.fgunsfcases",
       "icon": "4guns4cases_icon.png",
       "name": "Ultimate Case Quiz"
     },
     {
-      "order": 3,
-      "package_id": "com.lightside.skinquizcs",
-      "icon": "skinquizcs_icon.png",
-      "name": "Угадай скины CS:GO"
+      "order": 2,
+      "package_id": "com.twodtwob.aimshooter",
+      "icon": "gun_shooter_icon.png",
+      "name": "Desert Eagle Shooter"
     }
   ]
 }
