@@ -1,17 +1,23 @@
 {
-  "entity_name": "skinquizcs-gunshooter-ru",
+  "entity_name": "cyber-gunshooter-ultra-ru",
   "ad_apps": [
     {
       "order": 1,
-      "package_id": "com.lightside.fgunsfcases",
-      "icon": "4guns4cases_icon.png",
-      "name": "Ultimate Case Quiz"
+      "package_id": "com.twodtwob.cyber.sportsman",
+      "icon": "cyber_icon.jpg",
+      "name": "Стань Киберспортсменом"
     },
     {
       "order": 2,
       "package_id": "com.twodtwob.aimshooter",
       "icon": "gun_shooter_icon.png",
       "name": "Desert Eagle Shooter"
+    },
+    {
+      "order": 3,
+      "package_id": "com.lightside.caseopener.ultra",
+      "icon": "ultra_icon.png",
+      "name": "Ultra"
     }
   ]
 }

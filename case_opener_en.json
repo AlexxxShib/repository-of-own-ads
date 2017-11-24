@@ -1,11 +1,11 @@
 {
-  "entity_name": "skinquizcs-gunshooter-en",
+  "entity_name": "ultra-gunshooter-en",
   "ad_apps": [
     {
       "order": 1,
-      "package_id": "com.lightside.fgunsfcases",
-      "icon": "4guns4cases_icon.png",
-      "name": "Ultimate Case Quiz"
+      "package_id": "com.lightside.caseopener.ultra",
+      "icon": "ultra_icon.png",
+      "name": "Ultra"
     },
     {
       "order": 2,
