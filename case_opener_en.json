@@ -1,14 +1,20 @@
 {
-  "entity_name": "ultra-gunshooter-en",
+  "entity_name": "cyber-ultra-gunshooter-en",
   "ad_apps": [
     {
       "order": 1,
+      "package_id": "com.twodtwob.cyber.sportsman",
+      "icon": "cyber_icon.jpg",
+      "name": "Cybersport"
+    },
+    {
+      "order": 2,
       "package_id": "com.lightside.caseopener.ultra",
       "icon": "ultra_icon.png",
       "name": "Ultra"
     },
     {
-      "order": 2,
+      "order": 3,
       "package_id": "com.twodtwob.aimshooter",
       "icon": "gun_shooter_icon.png",
       "name": "Desert Eagle Shooter"
