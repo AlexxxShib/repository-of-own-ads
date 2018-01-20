@@ -1,5 +1,5 @@
 {
-  "entity_name": "cyber-ultra-gunshooter-en",
+  "entity_name": "cyber-ultra-magnate-en",
   "ad_apps": [
     {
       "order": 1,
@@ -15,9 +15,9 @@
     },
     {
       "order": 3,
-      "package_id": "com.twodtwob.aimshooter",
-      "icon": "gun_shooter_icon.png",
-      "name": "Desert Eagle Shooter"
+      "package_id": "com.lightside.casemagnate",
+      "icon": "case_magnate_icon.png",
+      "name": "Case Magnate"
     }
   ]
 }
