@@ -1,5 +1,5 @@
 {
-  "entity_name": "cyber-magnate-ultra-ru",
+  "entity_name": "cyber-maze-magnate-ru",
   "ad_apps": [
     {
       "order": 1,
@@ -9,15 +9,15 @@
     },
     {
       "order": 2,
-      "package_id": "com.lightside.casemagnate",
-      "icon": "case_magnate_icon.png",
-      "name": "Case Magnate"
+      "package_id": "com.twodtwob.maze3d",
+      "icon": "maze_icon.png",
+      "name": "Лабиринт Майнкрафт"
     },
     {
       "order": 3,
-      "package_id": "com.lightside.caseopener.ultra",
-      "icon": "ultra_icon.png",
-      "name": "Ultra"
+      "package_id": "com.lightside.casemagnate",
+      "icon": "case_magnate_icon.png",
+      "name": "Case Magnate"
     }
   ]
 }

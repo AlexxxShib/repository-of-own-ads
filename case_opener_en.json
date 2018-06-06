@@ -1,5 +1,5 @@
 {
-  "entity_name": "cyber-ultra-magnate-en",
+  "entity_name": "cyber-maze-magnate-en",
   "ad_apps": [
     {
       "order": 1,
@@ -9,9 +9,9 @@
     },
     {
       "order": 2,
-      "package_id": "com.lightside.caseopener.ultra",
-      "icon": "ultra_icon.png",
-      "name": "Ultra"
+      "package_id": "com.twodtwob.maze3d",
+      "icon": "maze_icon.png",
+      "name": "Minecraft Maze"
     },
     {
       "order": 3,
