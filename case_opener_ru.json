@@ -1,5 +1,5 @@
 {
-  "entity_name": "cyber-maze-magnate-ru",
+  "entity_name": "cyber-maze-boss-ru",
   "ad_apps": [
     {
       "order": 1,
@@ -15,9 +15,9 @@
     },
     {
       "order": 3,
-      "package_id": "com.lightside.casemagnate",
-      "icon": "case_magnate_icon.png",
-      "name": "Case Magnate"
+      "package_id": "com.lightside.bossfight",
+      "icon": "bossfight_icon.png",
+      "name": "Peace Doze"
     }
   ]
 }
