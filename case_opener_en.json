@@ -1,11 +1,11 @@
 {
-  "entity_name": "cyber-maze-boss-en",
+  "entity_name": "cards-maze-boss-en",
   "ad_apps": [
     {
       "order": 1,
-      "package_id": "com.twodtwob.cyber.sportsman",
-      "icon": "cyber_icon.jpg",
-      "name": "Cybersport"
+      "package_id": "com.lightside.mergecards",
+      "icon": "mergecards_icon.png",
+      "name": "2048 Cards"
     },
     {
       "order": 2,
