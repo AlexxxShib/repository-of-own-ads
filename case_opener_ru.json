@@ -1,11 +1,11 @@
 {
-  "entity_name": "cards-maze-boss-ru",
+  "entity_name": "beatshop-maze-boss-ru",
   "ad_apps": [
     {
       "order": 1,
-      "package_id": "com.lightside.mergecards",
-      "icon": "mergecards_icon.png",
-      "name": "2048 Cards"
+      "package_id": "com.mobiray.beatshop",
+      "icon": "beatshop_icon.png",
+      "name": "Beats Hop!"
     },
     {
       "order": 2,
